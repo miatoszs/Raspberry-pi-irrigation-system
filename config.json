@@ -1,0 +1,76 @@
+{
+    "interval_multiplier": 1,
+    "suspend": false,
+    "zonelist": [
+        {
+            "name": "Kortefa",
+            "pin": 3,
+            "program": [
+                {
+                    "interval": 3,
+                    "start": "07:30"
+                }
+            ]
+        },
+        {
+            "name": "Cseresznyefa",
+            "pin": 5,
+            "program": [
+                {
+                    "interval": 3,
+                    "start": "07:30"
+                }
+            ]
+        },
+        {
+            "name": "Csopicso",
+            "pin": 7,
+            "program": [
+                {
+                    "interval": 15,
+                    "start": "07:00"
+                }
+            ]
+        },
+        {
+            "name": "Teresz",
+            "pin": 11,
+            "program": [
+                {
+                    "interval": 3,
+                    "start": "07:30"
+                }
+            ]
+        },
+        {
+            "name": "Gyep",
+            "pin": 13,
+            "program": [
+                {
+                    "interval": 3,
+                    "start": "07:30"
+                }
+            ]
+        },
+        {
+            "name": "Trambulin",
+            "pin": 15,
+            "program": [
+                {
+                    "interval": 3,
+                    "start": "07:30"
+                }
+            ]
+        },
+        {
+            "name": "Diofa",
+            "pin": 19,
+            "program": [
+                {
+                    "interval": 1,
+                    "start": "07:30"
+                }
+            ]
+        }
+    ]
+}
